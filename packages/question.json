@@ -1,0 +1,130 @@
+[{
+	"question": "What is the name of captian america?",
+	"options": ["A.  Steve Rogers", 
+		"B. Tony Steve", 
+		"C. Bruce Banner", 
+		"D. Tony Stark"],
+	"answer": "A. Steve Rogers "
+},
+{
+	"question": "Who was the first Avenger?",
+	"options": ["A.Iron Man", 
+		"B. Hawkeye", 
+		"C. Captain America", 
+		"D. Hulk"],
+	"answer": "C. Captain America"
+},
+{
+	"question": "What is the metal used in sheild of Captain America?",
+	"options": ["A.Vibranium", 
+		"B. Steel", 
+		"C. Copper", 
+		"D. Gold"],
+	"answer": "A. Vibranium"
+},
+{
+	"question": "Is Captain America a Human?",
+	"options": ["A. True", 
+		"B. False"], 
+	"answer": "A. True"
+},
+{
+	"question": "What is the stone used in Ultron?",
+	"options": ["A. Soul stone", 
+		"B. Mind Stone", 
+		"C. time stone", 
+		"D. Power stone"],
+	"answer": "B. Mind Stone"
+},
+{
+	"question": "Who created Ultron?",
+	"options": ["A. Captain America", 
+		"B. Iron-man", 
+		"C. Both a&b", 
+		"D. Hulk"],
+	"answer": "B. Iron-man"
+},
+{
+	"question": "Who was Ultron Girldfriend?",
+	"options": ["A.Black-widow", 
+		"B. Wanda Maximoff", 
+		"C.Captain Marvel", 
+		"D. None of the above"],
+	"answer": "B. Wanda Maximoff"
+},
+{
+	"question": "Who killed Ultron?",
+	"options": ["A.Thanos", 
+		"B. Loki", 
+		"C. Hulk", 
+		"D. Winter Soldier"],
+	"answer": "A. Thanos"
+},
+{
+	"question": "Who is Thor?",
+	"options": ["A. God ", 
+		"B.Human", 
+		"C. Alien", 
+		"D. None of the above"],
+	"answer": "A.God"
+},
+{
+	"question": "Who is Thor brother",
+	"options": ["A.Iron Man", 
+		"B. Hulk", 
+		"C. Hawkeye", 
+		"D. Loki"],
+	"answer": "D. Loki"
+},
+{
+	
+	"question": "What is Thor Hammer-Name",
+	"options": ["A.Lightstrom", 
+		"B. friday", 
+		"C. Mjollnir", 
+		"D. shield"],
+	"answer": "C. Mjollnir"
+},
+{
+	"question": "What is Iron Man real name?",
+	"options": ["A.Thor", 
+		"B. Steve Rogures", 
+		"C. Bruce Banner", 
+		"D.Tony Stark"],
+	"answer": "D. Tony Stark"
+},
+{
+	"question": "What is tony stark AI name?",
+	"options": ["A.Jarvis", 
+		"B. Friday", 
+		"C. strom", 
+		"D. thnder"],
+	"answer": "A. Jarvis"
+},
+{
+	"question": "Is Iron Man Human?",
+	"options": ["A.False", 
+		"B. True"],
+	"answer": "B. True"
+},
+{
+	"question": "What is Thor power?",
+	"options": ["A.Lightstrom", 
+		"B. Lightning", 
+		"C. strom", 
+		"D. water"],
+	"answer": "B. lightning"
+},
+{
+	"question": "?",
+	"options": ["A.Lightstrom", 
+		"B. Lightning", 
+		"C. strom", 
+		"D. water"],
+	"answer": "B. lightning"
+}
+
+
+
+
+]
