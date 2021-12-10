@@ -1,7 +1,7 @@
 import os 
 import random
 import json
-from packages import playagain
+
 
     
 def intro_message():
@@ -42,8 +42,6 @@ def game():
 			del quiz[randomquestion]
 		print(f"Your final score is {score}!\n\n")
 
-if playagain.score == 0:
-        playagain.playagain("lost")
 
 if __name__ == "__main__":
 	option = 1
